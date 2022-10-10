@@ -5,3 +5,5 @@
 Щоб додати файл в staging area git add<file_name>
 //comment  from another  developer
 //comment from another developer 
+
+// Для того чтобы создать новый branch с того на котором мы находимся - git checkout -b <new_branch_name>
