@@ -4,3 +4,4 @@
 
 Щоб додати файл в staging area git add<file_name>
 //comment  from another  developer
+//comment from another developer 
